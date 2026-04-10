@@ -1,2 +1,2 @@
 # cube
-A cube
+https://PBArchives.github.io/cube/
